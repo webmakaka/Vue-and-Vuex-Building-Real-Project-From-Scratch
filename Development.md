@@ -76,6 +76,10 @@ g files
 
 ![Application](/img/pic-m01-p03.png?raw=true)
 
+<br/>
+
+![Application](/img/pic-m01-p04.png?raw=true)
+
 ---
 
 <br/>
