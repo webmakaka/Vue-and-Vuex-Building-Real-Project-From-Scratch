@@ -80,6 +80,28 @@ g files
 
 ![Application](/img/pic-m01-p04.png?raw=true)
 
+<br/>
+
+### 002. Настройка локального API
+
+<br/>
+**Backend от Oleksandr:**  
+https://github.com/EJIqpEP/koa-knex-realworld-example
+
+<br/>
+
+    $ mkdir -p ~/projects/dev/js/vue/ && cd ~/projects/dev/js/vue/
+    $ git clone https://github.com/EJIqpEP/koa-knex-realworld-example
+    $ cd koa-knex-realworld-example
+    $ npm install
+    $ npm run db:migrate
+    $ npm run db:load
+    $ npm start
+
+<br/>
+
+browser: localhost:3000/api/articles
+
 ---
 
 <br/>
