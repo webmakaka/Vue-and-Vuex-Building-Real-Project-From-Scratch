@@ -6,6 +6,76 @@
 
 <br/>
 
+## 01. Подготовка инструментов
+
+<br/>
+
+### 001. Подготавливаем проект
+
+https://cli.vuejs.org/
+
+    $ npm install -g @vue/cli
+    $ vue --version
+    @vue/cli 4.5.9
+
+<br/>
+
+    $ cd app
+    $ vue create client
+
+```
+❯ Manually select features
+```
+
+<br/>
+
+![Application](/img/pic-m01-p01.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m01-p02.png?raw=true)
+
+<br/>
+
+```
+? Use history mode for router? (Requires proper server setup for index fallback
+in production) (Y/n) n
+```
+
+<br/>
+
+```
+❯ ESLint with error prevention only
+```
+
+<br/>
+
+```
+❯ Lint on save
+```
+
+```
+? Where do you prefer placing config for Babel, ESLint, etc.?
+
+❯ In dedicated confi
+g files
+```
+
+<br/>
+
+```
+? Save this as a preset for future projects? (y/N) n
+```
+
+<br/>
+
+    $ cd client
+    $ npm run serve
+
+<br/>
+
+![Application](/img/pic-m01-p03.png?raw=true)
+
 ---
 
 <br/>
