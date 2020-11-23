@@ -85,7 +85,7 @@ g files
 ### 002. Настройка локального API
 
 <br/>
-**Backend от Oleksandr:**  
+**Backend от Oleksandr:**
 https://github.com/EJIqpEP/koa-knex-realworld-example
 
 <br/>
@@ -102,11 +102,46 @@ https://github.com/EJIqpEP/koa-knex-realworld-example
 
 browser: localhost:3000/api/articles
 
+<br/>
+
+### 003. Установка Prettier
+
+<br/>
+
+### 004. Обновление Vue до версии 3
+
+    // Просто для демонстрации, на будущее!
+    // Обновлю как паеты зарелизятся
+    // $ npm install vue@next
+    // $ npm install vuex@next
+    // $ npm install vue-router@next
+    // $ npm install --save-dev @vue/compiler-sfc
+
+    // Обновить код
+
+    // Обновить расширение для браузера
+
+<br/>
+
+### 005. Структура проекта
+
+<br/>
+
+## 2. Регистрация
+
+<br/>
+
+### 1. Разметка страницы регистрации
+
+<br/>
+
+![Application](/img/pic-m02-p01.png?raw=true)
+
 ---
 
 <br/>
 
 **Marley**
 
-Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
 Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
