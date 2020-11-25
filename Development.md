@@ -131,11 +131,34 @@ browser: localhost:3000/api/articles
 
 <br/>
 
-### 1. Разметка страницы регистрации
+### 001. Разметка страницы регистрации
 
 <br/>
 
 ![Application](/img/pic-m02-p01.png?raw=true)
+
+<br/>
+
+### 002. Redux и Vuex 
+
+<br/>
+
+### 3. Создание Vuex модуля авторизации
+
+
+![Application](/img/pic-m02-p02.png?raw=true)
+
+<br/>
+
+### 002. Redux и Vuex 
+
+<br/>
+
+### 3. Создание Vuex модуля авторизации
+
+
+
+<br/>
 
 ---
 
@@ -143,5 +166,5 @@ browser: localhost:3000/api/articles
 
 **Marley**
 
-Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
 Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
