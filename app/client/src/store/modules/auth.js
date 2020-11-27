@@ -1,4 +1,5 @@
 import authApi from '@/api/auth';
+import { setItem } from '@/helpers/persistanceStorage.js';
 
 const state = {
   isSubmitting: false,
@@ -31,6 +32,7 @@ const actions = {
         .register(credentials)
         .then(response => {
           context.commit('registerSuccess', response.data.user);
+          setItem('accessToken', response.data.user.token);
           resolve(response.data.user);
         })
         .catch(result => {

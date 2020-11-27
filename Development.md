@@ -165,6 +165,14 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m02-p03.png?raw=true)
 
+
+<br/>
+
+### 007. Сохранение токена авторизации
+
+![Application](/img/pic-m02-p04.png?raw=true)
+
+
 <br/>
 
 ---
