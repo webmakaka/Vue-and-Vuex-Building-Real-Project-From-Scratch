@@ -127,7 +127,7 @@ browser: localhost:3000/api/articles
 
 <br/>
 
-## 2. Регистрация
+## 02. Регистрация
 
 <br/>
 
@@ -143,20 +143,27 @@ browser: localhost:3000/api/articles
 
 <br/>
 
-### 3. Создание Vuex модуля авторизации
+### 003. Создание Vuex модуля авторизации
 
 
 ![Application](/img/pic-m02-p02.png?raw=true)
 
-<br/>
-
-### 002. Redux и Vuex 
 
 <br/>
 
-### 3. Создание Vuex модуля авторизации
+### 004. Vuex actions
 
+<br/>
+ 
+### 005. Добавляем API запрос на регистрацию
 
+    $ npm install axios
+
+<br/>
+
+### 006. Улучшение страницы регистрации
+
+![Application](/img/pic-m02-p03.png?raw=true)
 
 <br/>
 
