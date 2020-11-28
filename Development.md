@@ -175,6 +175,14 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 008. Отрисовываем ошибки валидации
+
+![Application](/img/pic-m02-p05.png?raw=true)
+
+
+
+<br/>
+
 ---
 
 <br/>
