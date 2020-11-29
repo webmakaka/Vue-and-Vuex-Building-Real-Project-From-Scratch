@@ -190,6 +190,13 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 002. Добавляем страницу логина
+
+
+![Application](/img/pic-m03-p01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
