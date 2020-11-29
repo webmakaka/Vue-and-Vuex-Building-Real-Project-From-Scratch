@@ -180,6 +180,13 @@ browser: localhost:3000/api/articles
 ![Application](/img/pic-m02-p05.png?raw=true)
 
 
+<br/>
+
+## 03. Авторизация
+
+<br/>
+
+### 001. Рефакторизируем именование
 
 <br/>
 
