@@ -192,8 +192,15 @@ browser: localhost:3000/api/articles
 
 ### 002. Добавляем страницу логина
 
-
 ![Application](/img/pic-m03-p01.png?raw=true)
+
+
+<br/>
+
+### 003. Создаем верхнее меню
+
+
+![Application](/img/pic-m03-p02.png?raw=true)
 
 <br/>
 
