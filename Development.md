@@ -202,6 +202,15 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m03-p02.png?raw=true)
 
+
+<br/>
+
+### 004. Getters в Vuex
+
+
+![Application](/img/pic-m03-p03.png?raw=true)
+
+
 <br/>
 
 ---
