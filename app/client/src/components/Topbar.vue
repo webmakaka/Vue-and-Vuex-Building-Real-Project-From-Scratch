@@ -38,7 +38,7 @@
               class="nav-link"
               :to="{
                 name: 'userProfile',
-                params: { slug: currentUser.username },
+                params: { slug: currentUser.username }
               }"
               active-class="active"
               ><img class="user-pic" :src="currentUser.image" /> &nbsp;
@@ -46,7 +46,7 @@
             </router-link>
           </li>
         </template>
-        <template v-if="isAnonymouse">
+        <template v-if="isAnonymous">
           <li class="nav-item">
             <router-link
               class="nav-link"
@@ -70,7 +70,6 @@
   </nav>
 </template>
 
-
 <script>
 import { mapGetters } from 'vuex';
 import { getterTypes } from '@/store/modules/auth';
@@ -81,9 +80,8 @@ export default {
     ...mapGetters({
       currentUser: getterTypes.currentUser,
       isLoggedIn: getterTypes.isLoggedIn,
-      isAnonymouse: getterTypes.isAnonymouse,
-    }),
-  },
+      isAnonymous: getterTypes.isAnonymous
+    })
+  }
 };
 </script>
-

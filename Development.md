@@ -213,6 +213,12 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 005. Получение текущего пользователя от API
+
+
+
+<br/>
+
 ---
 
 <br/>
