@@ -216,6 +216,16 @@ browser: localhost:3000/api/articles
 ### 005. Получение текущего пользователя от API
 
 
+<br/>
+
+## 04. Фид 
+
+<br/>
+
+### 001. Подготавливаем фид
+
+
+![Application](/img/pic-m04-p01.png?raw=true)
 
 <br/>
 
