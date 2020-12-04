@@ -227,6 +227,13 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m04-p01.png?raw=true)
 
+
+<br/>
+
+### 002. Отрисовываем фид
+
+![Application](/img/pic-m04-p02.png?raw=true)
+
 <br/>
 
 ---
