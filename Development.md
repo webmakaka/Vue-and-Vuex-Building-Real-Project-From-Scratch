@@ -234,6 +234,14 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m04-p02.png?raw=true)
 
+
+<br/>
+
+### 003. Реализуем пагинацию 
+
+![Application](/img/pic-m04-p03.png?raw=true)
+
+
 <br/>
 
 ---
