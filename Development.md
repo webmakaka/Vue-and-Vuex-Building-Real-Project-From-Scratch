@@ -244,6 +244,13 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 004. Высчитываем offset
+
+    $ npm install -y query-string
+
+
+<br/>
+
 ---
 
 <br/>
