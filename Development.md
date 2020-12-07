@@ -248,6 +248,14 @@ browser: localhost:3000/api/articles
 
     $ npm install -y query-string
 
+<br/>
+
+### 005. Реализуем популярные теги
+
+
+![Application](/img/pic-m04-p04.png?raw=true)
+
+
 
 <br/>
 
