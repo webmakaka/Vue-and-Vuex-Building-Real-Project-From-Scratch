@@ -269,6 +269,12 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 008. Добавляем переключатель между фидами
+
+![Application](/img/pic-m04-p06.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
