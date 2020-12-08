@@ -256,6 +256,11 @@ browser: localhost:3000/api/articles
 ![Application](/img/pic-m04-p04.png?raw=true)
 
 
+<br/>
+
+### 006. Добавляем вспомогательные компоненты
+
+
 
 <br/>
 
