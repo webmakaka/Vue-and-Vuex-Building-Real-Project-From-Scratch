@@ -252,7 +252,6 @@ browser: localhost:3000/api/articles
 
 ### 005. Реализуем популярные теги
 
-
 ![Application](/img/pic-m04-p04.png?raw=true)
 
 
@@ -261,6 +260,12 @@ browser: localhost:3000/api/articles
 ### 006. Добавляем вспомогательные компоненты
 
 
+<br/>
+
+### 007. Создаем мой фид и тег фид
+
+
+![Application](/img/pic-m04-p05.png?raw=true)
 
 <br/>
 
