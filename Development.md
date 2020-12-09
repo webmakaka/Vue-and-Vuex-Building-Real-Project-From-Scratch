@@ -224,7 +224,6 @@ browser: localhost:3000/api/articles
 
 ### 001. Подготавливаем фид
 
-
 ![Application](/img/pic-m04-p01.png?raw=true)
 
 
@@ -264,7 +263,6 @@ browser: localhost:3000/api/articles
 
 ### 007. Создаем мой фид и тег фид
 
-
 ![Application](/img/pic-m04-p05.png?raw=true)
 
 <br/>
@@ -273,7 +271,19 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m04-p06.png?raw=true)
 
+
 <br/>
+
+## 05. Страницы поста 
+
+<br/>
+
+### 001. Создаем страницу отдельного поста
+
+![Application](/img/pic-m05-p01.png?raw=true)
+
+<br/>
+
 
 ---
 
