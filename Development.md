@@ -282,6 +282,12 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m05-p01.png?raw=true)
 
+
+<br/>
+
+### 002. Добавляем удаление поста
+
+
 <br/>
 
 
