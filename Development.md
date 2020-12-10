@@ -290,6 +290,13 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+### 003. Добавляем список тегов
+
+
+![Application](/img/pic-m05-p02.png?raw=true)
+
+<br/>
+
 
 ---
 
