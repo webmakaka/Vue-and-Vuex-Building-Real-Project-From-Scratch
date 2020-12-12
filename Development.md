@@ -301,9 +301,20 @@ browser: localhost:3000/api/articles
 
 ### 004. Создаем форму поста
 
-
 ![Application](/img/pic-m05-p03.png?raw=true)
 
+
+<br/>
+
+### 005. Добавляем страницу создания поста
+
+<br/>
+
+![Application](/img/pic-m05-p04.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m05-p05.png?raw=true)
 
 <br/>
 

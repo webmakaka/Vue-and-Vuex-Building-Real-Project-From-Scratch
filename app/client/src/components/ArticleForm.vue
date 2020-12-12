@@ -3,7 +3,7 @@
     <div class="container page">
       <div class="row">
         <div class="col-md-10 offset-md-1 col-xs-12">
-          <mcv-validation-errors v-if="errors" />
+          <mcv-validation-errors v-if="errors" :validation-errors="errors" />
           <form @submit.prevent="onSubmit">
             <fieldset>
               <fieldset class="form-group">
@@ -100,7 +100,7 @@ export default {
         title: this.title,
         description: this.description,
         body: this.body,
-        tagList: this.tagList,
+        tagList: this.tagList.split(' '),
       };
       this.$emit('articleSubmit', form);
     },
