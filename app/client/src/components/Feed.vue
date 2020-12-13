@@ -36,11 +36,11 @@
           :to="{ name: 'article', params: { slug: article.slug } }"
           class="preview-link"
         >
-          <h1>{{ article.title }}</h1></router-link
-        >
-        <p>{{ article.description }}</p>
-        <span>Read more...</span>
-        <mcv-tag-list :tags="article.tagList" />
+          <h1>{{ article.title }}</h1>
+          <p>{{ article.description }}</p>
+          <span>Read more...</span>
+          <mcv-tag-list :tags="article.tagList" />
+        </router-link>
       </div>
       <mcv-pagination
         :total="feed.articlesCount"
@@ -112,10 +112,10 @@ export default {
       const stringifiedParams = stringify({
         limit,
         offset: this.offset,
-        ...parseUrl.query,
+        ...parsedUrl.query,
       });
-      const apiUrlWIthParams = `${parsedUrl.url}?${stringifiedParams}`;
-      this.$store.dispatch(actionTypes.getFeed, { apiUrl: apiUrlWIthParams });
+      const apiUrlWithParams = `${parsedUrl.url}?${stringifiedParams}`;
+      this.$store.dispatch(actionTypes.getFeed, { apiUrl: apiUrlWithParams });
     },
   },
 };

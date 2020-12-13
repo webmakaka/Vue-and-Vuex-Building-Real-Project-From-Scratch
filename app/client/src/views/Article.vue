@@ -60,8 +60,8 @@
 import { mapState, mapGetters } from 'vuex';
 import { actionTypes as articleActionTypes } from '@/store/modules/article';
 import { getterTypes as authGetterTypes } from '@/store/modules/auth';
-import McvLoading from '../components/Loading.vue';
-import McvErrorMessage from '../components/ErrorMessage.vue';
+import McvLoading from '@/components/Loading';
+import McvErrorMessage from '@/components/ErrorMessage';
 import McvTagList from '@/components/TagList';
 
 export default {
@@ -74,7 +74,7 @@ export default {
   computed: {
     ...mapState({
       isLoading: (state) => state.article.isLoading,
-      errror: (state) => state.article.error,
+      error: (state) => state.article.error,
       article: (state) => state.article.data,
     }),
     ...mapGetters({
@@ -94,7 +94,7 @@ export default {
   },
   methods: {
     deleteArticle() {
-      this.$slots
+      this.$store
         .dispatch(articleActionTypes.deleteArticle, {
           slug: this.$route.params.slug,
         })

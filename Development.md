@@ -316,6 +316,12 @@ browser: localhost:3000/api/articles
 
 ![Application](/img/pic-m05-p05.png?raw=true)
 
+
+
+<br/>
+
+### 006. Добавляем страницу редактирования поста
+
 <br/>
 
 
