@@ -324,6 +324,16 @@ browser: localhost:3000/api/articles
 
 <br/>
 
+## 06. Профили
+
+<br/>
+
+### 001. Реализуем страницу настроек 
+
+![Application](/img/pic-m06-p01.png?raw=true)
+
+<br/>
+
 
 ---
 
