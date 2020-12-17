@@ -330,7 +330,25 @@ browser: localhost:3000/api/articles
 
 ### 001. Реализуем страницу настроек 
 
+<br/>
+
 ![Application](/img/pic-m06-p01.png?raw=true)
+
+
+<br/>
+
+### 002. Namespaced в Vuex
+
+В проекте не используем NameSpacing. В видео объясняется почему.
+
+
+<br/>
+
+### 003. Реализуем лайки и дизлайки постов
+
+<br/>
+
+![Application](/img/pic-m06-p02.png?raw=true)
 
 <br/>
 
