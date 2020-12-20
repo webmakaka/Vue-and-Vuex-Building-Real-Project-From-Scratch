@@ -17,8 +17,20 @@ https://github.com/EJIqpEP/koa-knex-realworld-example
 
 <br/>
 
-**Конфиги для NeoVim от Oleksandr Kocherhin**  
+**Конфиги для NeoVim от Oleksandr Kocherhin:**  
 https://github.com/webmak1/nvim-config
+
+<br/>
+
+**Финальный проект:**  
+
+<br/>
+
+![Application](/img/pic-m06-p02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m06-p04.png?raw=true)
 
 <br/>
 
