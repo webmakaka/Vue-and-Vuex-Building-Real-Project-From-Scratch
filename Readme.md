@@ -1,4 +1,4 @@
-# [Udemy, Oleksandr Kocherhin] Vue и Vuex - пишем реальный проект с нуля [RUS, 2020]
+# [Oleksandr Kocherhin] Vue и Vuex - пишем реальный проект с нуля [RUS, 2020]
 
 <br/>
 
